@@ -1,5 +1,5 @@
 # Bookmarks
-React Native Project - Cross-Platform Mobile Development
+React Native Group Project - Cross-Platform Mobile Development course - fall/2022 
 
 An app to search for books and save them to read later
 
